@@ -1,6 +1,6 @@
 <wps>
   <id>WPSInfoImpl--38ae7926:16b074fab63:-7fff</id>
-  <enabled>true</enabled>
+  <enabled>false</enabled>
   <name>WPS</name>
   <title>Prototype GeoServer WPS</title>
   <versions>
