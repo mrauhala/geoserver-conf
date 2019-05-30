@@ -474,3 +474,54 @@ Request: getCapabilities
 	RequestCharset = null
 	UpdateSequence = null
 	Version = 1.3.0
+2019-05-30 06:08:56,303 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:08:56,303 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:09:20,981 WARN [geoserver.web] - Unable to find property: 'format.wms.application/vnd.google-earth.kml' for component:  [class=org.geoserver.web.demo.MapPreviewPage]. Locale: null, style: null
+2019-05-30 06:09:20,982 WARN [geoserver.web] - Unable to find property: 'format.wms.geojson' for component:  [class=org.geoserver.web.demo.MapPreviewPage]. Locale: null, style: null
+2019-05-30 06:09:21,006 WARN [geoserver.web] - Unable to find property: 'format.wms.rss' for component:  [class=org.geoserver.web.demo.MapPreviewPage]. Locale: null, style: null
+2019-05-30 06:09:26,515 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:09:26,516 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:09:56,718 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:09:56,719 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:10:26,914 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:10:26,915 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
