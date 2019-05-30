@@ -286,3 +286,191 @@ Request: getCapabilities
 	RequestCharset = null
 	UpdateSequence = null
 	Version = 1.3.0
+2019-05-30 06:03:23,796 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:03:23,797 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:03:54,050 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:03:54,050 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:04:24,303 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:04:24,305 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:04:34,721 INFO [geoserver.security] - Successfully changed master password
+2019-05-30 06:04:54,522 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:04:54,523 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:05:24,752 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:05:24,753 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:05:54,996 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:05:54,996 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:06:25,232 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:06:25,232 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:06:55,451 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:06:55,451 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:07:25,676 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:07:25,676 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:07:55,909 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:07:55,910 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
+2019-05-30 06:07:59,737 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/nurc_Arc_Sample does not exist or is not writable
+2019-05-30 06:07:59,835 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/nurc_Pk50095 does not exist or is not writable
+2019-05-30 06:07:59,840 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/nurc_mosaic does not exist or is not writable
+2019-05-30 06:07:59,852 INFO [gwc.layer] - Truncating TileLayer for layer group 'tiger-ny' due to a change in its layers or styles
+2019-05-30 06:07:59,872 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger-ny does not exist or is not writable
+2019-05-30 06:07:59,872 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger-ny does not exist or is not writable
+2019-05-30 06:07:59,874 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger_giant_polygon does not exist or is not writable
+2019-05-30 06:07:59,883 INFO [gwc.layer] - Truncating TileLayer for layer group 'tiger-ny' due to a change in its layers or styles
+2019-05-30 06:07:59,883 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger-ny does not exist or is not writable
+2019-05-30 06:07:59,884 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger-ny does not exist or is not writable
+2019-05-30 06:07:59,903 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger_poi does not exist or is not writable
+2019-05-30 06:07:59,906 INFO [gwc.layer] - Truncating TileLayer for layer group 'tiger-ny' due to a change in its layers or styles
+2019-05-30 06:07:59,906 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger-ny does not exist or is not writable
+2019-05-30 06:07:59,906 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger-ny does not exist or is not writable
+2019-05-30 06:07:59,907 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger_poly_landmarks does not exist or is not writable
+2019-05-30 06:07:59,912 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger-ny does not exist or is not writable
+2019-05-30 06:07:59,915 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tiger_tiger_roads does not exist or is not writable
+2019-05-30 06:07:59,922 INFO [gwc.layer] - Truncating TileLayer for layer group 'spearfish' due to a change in its layers or styles
+2019-05-30 06:07:59,995 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:07:59,995 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:07:59,996 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/sf_archsites does not exist or is not writable
+2019-05-30 06:08:00,001 INFO [gwc.layer] - Truncating TileLayer for layer group 'spearfish' due to a change in its layers or styles
+2019-05-30 06:08:00,001 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:08:00,002 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:08:00,003 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/sf_bugsites does not exist or is not writable
+2019-05-30 06:08:00,008 INFO [gwc.layer] - Truncating TileLayer for layer group 'spearfish' due to a change in its layers or styles
+2019-05-30 06:08:00,008 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:08:00,009 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:08:00,010 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/sf_restricted does not exist or is not writable
+2019-05-30 06:08:00,015 INFO [gwc.layer] - Truncating TileLayer for layer group 'spearfish' due to a change in its layers or styles
+2019-05-30 06:08:00,015 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:08:00,015 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:08:00,016 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/sf_roads does not exist or is not writable
+2019-05-30 06:08:00,020 INFO [gwc.layer] - Truncating TileLayer for layer group 'spearfish' due to a change in its layers or styles
+2019-05-30 06:08:00,021 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:08:00,021 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:08:00,022 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/sf_streams does not exist or is not writable
+2019-05-30 06:08:00,028 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/spearfish does not exist or is not writable
+2019-05-30 06:08:00,029 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/sf_sfdem does not exist or is not writable
+2019-05-30 06:08:00,034 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/topp_states does not exist or is not writable
+2019-05-30 06:08:00,041 INFO [gwc.layer] - Truncating TileLayer for layer group 'tasmania' due to a change in its layers or styles
+2019-05-30 06:08:00,042 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tasmania does not exist or is not writable
+2019-05-30 06:08:00,042 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tasmania does not exist or is not writable
+2019-05-30 06:08:00,043 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/topp_tasmania_cities does not exist or is not writable
+2019-05-30 06:08:00,049 INFO [gwc.layer] - Truncating TileLayer for layer group 'tasmania' due to a change in its layers or styles
+2019-05-30 06:08:00,049 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tasmania does not exist or is not writable
+2019-05-30 06:08:00,049 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tasmania does not exist or is not writable
+2019-05-30 06:08:00,051 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/topp_tasmania_roads does not exist or is not writable
+2019-05-30 06:08:00,056 INFO [gwc.layer] - Truncating TileLayer for layer group 'tasmania' due to a change in its layers or styles
+2019-05-30 06:08:00,057 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tasmania does not exist or is not writable
+2019-05-30 06:08:00,057 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tasmania does not exist or is not writable
+2019-05-30 06:08:00,058 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/topp_tasmania_state_boundaries does not exist or is not writable
+2019-05-30 06:08:00,063 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/tasmania does not exist or is not writable
+2019-05-30 06:08:00,066 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/topp_tasmania_water_bodies does not exist or is not writable
+2019-05-30 06:08:00,073 INFO [file.FileBlobStore] - /usr/share/geoserver/data_dir/gwc/nurc_Img_Sample does not exist or is not writable
+2019-05-30 06:08:26,116 INFO [geoserver.wms] - 
+Request: getServiceInfo
+2019-05-30 06:08:26,117 INFO [geoserver.wms] - 
+Request: getCapabilities
+	BaseUrl = http://localhost:8080/geoserver/
+	Get = false
+	Namespace = null
+	RawKvp = {REQUEST=GetCapabilities, VERSION=1.3.0, SERVICE=wms}
+	Request = GetCapabilities
+	RequestCharset = null
+	UpdateSequence = null
+	Version = 1.3.0
